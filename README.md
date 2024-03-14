@@ -1,5 +1,4 @@
 # LinkTree Using HTML CSS JS
-<hr>
 Welcome to LinkTree-using-HTML-CSS-JS! This project serves as a concise hub to explore Manvendra Singh's portfolio, download his CV, and connect across social platforms. It simplifies navigation and provides easy access to his professional endeavors.<br>
 <hr>
 Features<br>
